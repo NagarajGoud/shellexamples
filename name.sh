@@ -1,4 +1,4 @@
 #!bin/bash
 echo "user name is `whoami`"
 echo uptime is `uptime`
-echo wake up nagaraj
+echo wake up Nagaraj
